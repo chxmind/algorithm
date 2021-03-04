@@ -1,3 +1,7 @@
+/**
+ * 给定一个整型数组a，求出最大连续子段的乘积，比如 1， 2， -8， 12， 7则输出12 * 7 = 84
+ */
+
 #include <algorithm>
 
 long array_max_continuous_children_product(int* arr, int len)
