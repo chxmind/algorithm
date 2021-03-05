@@ -1,4 +1,7 @@
-void array_combination(int *arr, int len, int k)
+
+
+void array_combination(int *arr, int left, int righ, int k)
 {
+    
     
 }
